@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kurtvandusen
-- 👀 I’m interested in ML, Hybrid Apps, Drupal
+- 👀 I'm interested in React Native, NodeJS, and TensorFlow
 - 🌱 I’m currently learning Python, Android Development
 - 💞️ I’m looking to collaborate on chatbots
 - 📫 How to reach me www.equationalapplications.com

@@ -1,6 +1,10 @@
 # Kurt VanDusen  
 
-Hi, I’m @kurtvandusen. I'm interested in React Native, NodeJS, and TensorFlow. Contact me at kurtvandusen@gmail.com
+Hi, I’m @kurtvandusen. I'm interested in React Native, NodeJS, and TensorFlow. Contact me at  
+<kurtvandusen@gmail.com>  
+[Twitter](https://twitter.com/kurtvandusen)
+[LinkedIn](https://www.linkedin.com/in/kurtvandusen/)
+
 
 ## Portfolio
 

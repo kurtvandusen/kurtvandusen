@@ -18,3 +18,9 @@ Microservices with NodeJs, MongoDB, RabbitMQ, Docker, and Kubernetes Demo App.
 
 Augmented Reality Pet with React Native and Viro React.  
 [https://play.google.com/store/apps/details?id=com.equationalapplications.arpet](https://play.google.com/store/apps/details?id=com.equationalapplications.arpet)
+
+
+### React Native Augmented Reality Tutorial  
+
+ViroReact React Native Augmented Reality Tutorial -- Hello World -- with Kurt VanDusen.  
+[https://youtu.be/Nn0m44i-Wf8](https://youtu.be/Nn0m44i-Wf8)

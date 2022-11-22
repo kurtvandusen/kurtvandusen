@@ -16,6 +16,11 @@ Contact me at:
 Microservices with NodeJs, MongoDB, RabbitMQ, Docker, and Kubernetes Demo App.  
 [https://github.com/kurtvandusen/squawk-wall](https://github.com/kurtvandusen/squawk-wall)
 
+### React Native Easy Chatbot  
+
+A chatbot demo app using Huggingface inference API, React Native, Expo, and Redux-Saga. Build for Android, iOS, and Web.  
+[https://github.com/kurtvandusen/React-Native-Easy-Chatbot](https://github.com/kurtvandusen/React-Native-Easy-Chatbot)
+
 ### AR Pet
 
 Augmented Reality Pet with React Native and Viro React.  

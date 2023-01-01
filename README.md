@@ -6,6 +6,9 @@ Contact me at:
 [Twitter](https://twitter.com/kurtvandusen)  
 [LinkedIn](https://www.linkedin.com/in/kurtvandusen/)
 
+## CodeSignal Coding Report  
+
+[Kurt VanDusen on CodeSignal](https://app.codesignal.com/coding-report/jP259bEBKoZub7pNv-dg4e3yLrGsNnPgK7Wzjqqtia?accessToken=jP259bEBKoZub7pNv-EYjKSPKsq3W2pvnqqo3pMvci)
 
 ## Portfolio
 
